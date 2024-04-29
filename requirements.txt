@@ -1,0 +1,4 @@
+pymongo[srv]
+openai
+jupyter
+openai
